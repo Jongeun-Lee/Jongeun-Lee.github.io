@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Joonyoung Lee"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/cinccino.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "HAFS student, gamer, to-be programmer, etc."
   location         : "Hankuk Academy of Foreign Studies, Yongin, Korea"
   email            : "lumoscosmos227@gmail.com"
